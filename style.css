@@ -4,7 +4,7 @@ body {
     font-family: "Crimson Text", "Georgia";
 }
 
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
     font-family: "Oswald", "Helvetica Neue";
     color: #2884C3;
@@ -49,6 +49,18 @@ code {
     padding: 50px;
 }
 
+.links {
+    background-color: #770505;
+    padding: 50px;
+}
+
 .blue {
     color: #2884C3;
+}
+.green-center {
+    text-align: center;
+    color: green;
+}
+.green {
+    color: green;
 }
